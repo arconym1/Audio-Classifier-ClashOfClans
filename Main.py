@@ -5,7 +5,7 @@ from keras import models
 import cv2 as cv
 import numpy as np
 
-import Real_Model.Create_Spectogram as cs
+import Real_Model.Create_Spectogram as cs # See my other repository that you can use to make spectogram
 
 
 def predict():
